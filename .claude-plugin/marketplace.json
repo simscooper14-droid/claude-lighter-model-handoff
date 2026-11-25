@@ -1,0 +1,5 @@
+{
+  "name": "claude-lighter-model-handoff",
+  "owner": { "name": "simscooper14-droid" },
+  "plugins": [{ "name": "lighter-model-handoff", "source": "./" }]
+}

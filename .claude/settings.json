@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-lighter-model-handoff": {
+      "source": { "source": "github", "repo": "simscooper14-droid/claude-lighter-model-handoff" }
+    }
+  },
+  "enabledPlugins": { "lighter-model-handoff@claude-lighter-model-handoff": true }
+}

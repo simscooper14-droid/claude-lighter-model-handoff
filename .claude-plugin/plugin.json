@@ -1,0 +1,1 @@
+{ "name": "lighter-model-handoff", "version": "0.1.0", "license": "MIT", "description": "Nudges Claude to hand simple, self-contained pieces of work to Sonnet or Haiku subagents when that saves usage with no quality loss." }
